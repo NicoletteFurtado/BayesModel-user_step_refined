@@ -134,6 +134,7 @@ public class KnowledgeTracer {
 			// System.out.println();
 		}
 		skillSet1.setSkillMap(skillMap);
+		System.out.println("Returning skillset");
 		return skillSet1;
 	}
 
